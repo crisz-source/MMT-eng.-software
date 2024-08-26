@@ -7,7 +7,7 @@ class Main {
     Scanner ler = new Scanner(System.in);
 
     
-    System.out.println("Digite o valor do 1º boleto:");
+    System.out.println("Digite o valor do 1º boleto:"); 
     boleto1 = ler.nextDouble();
 
     System.out.println("Digite o valor do 2º boleto:");
