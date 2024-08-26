@@ -1,0 +1,7 @@
+echo "# MMT-eng.-software" >> README.md
+git init
+git add README.md
+git commit -m "deixe-um-comentario"
+git branch -M main
+git remote add origin <cole-o-seu-repositorio-aqui>
+git push -u origin main
